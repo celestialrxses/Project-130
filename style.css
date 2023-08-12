@@ -1,0 +1,14 @@
+.heading {
+    border: 3px solid white;
+}
+
+canvas {
+    width: 800px;
+    height: 700px;
+    border: 10px solid fuchsia;
+    padding: 10px;
+}
+
+body {
+    background-size: cover;
+}
